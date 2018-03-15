@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name" formatted="false">Code Breaker Android</string>
+  <string name="game_prompt" formatted="false">Code length: %d. Possible characters: %s. Duplicated characters %s allowed.%n</string>
+  <string name="guess_prompt" formatted="false">What is your guess #%d?%n</string>
+  <string name="guess_length_error" formatted="false">The guess must be exactly %d characters in length.%n</string>
+  <string name="guess_result" formatted="false">%d correct and in position. %d correct but out of position.%n</string>
+  <string name="surrender_prompt" formatted="false">Surrender? [y/N]%n</string>
+  <string name="positive_plural_condition" formatted="false">are</string>
+  <string name="negative_plural_condition" formatted="false">are not</string>
+  <string name="affirmative_character" formatted="false">y</string>
+  <string name="surrender_result" formatted="false">Game surrendered. The secret code was %s.%n</string>
+  <string name="solved_result" formatted="false">%s is correct. You broke the code!%n</string>
+
+</resources>
